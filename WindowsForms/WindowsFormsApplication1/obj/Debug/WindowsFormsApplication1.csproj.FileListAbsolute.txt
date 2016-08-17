@@ -1,0 +1,8 @@
+C:\Users\rjangelov\Desktop\IPCalc\IPCalcv1.exe.config
+C:\Users\rjangelov\Desktop\IPCalc\IPCalcv1.exe
+C:\Users\rjangelov\Desktop\IPCalc\IPCalcv1.pdb
+D:\TU-Sofia\Дипломна бакалавър\Software Solution\WindowsForms\WindowsForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\TU-Sofia\Дипломна бакалавър\Software Solution\WindowsForms\WindowsForms\WindowsFormsApplication1\obj\Debug\IPCalcv1.Properties.Resources.resources
+D:\TU-Sofia\Дипломна бакалавър\Software Solution\WindowsForms\WindowsForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\TU-Sofia\Дипломна бакалавър\Software Solution\WindowsForms\WindowsForms\WindowsFormsApplication1\obj\Debug\IPCalcv1.exe
+D:\TU-Sofia\Дипломна бакалавър\Software Solution\WindowsForms\WindowsForms\WindowsFormsApplication1\obj\Debug\IPCalcv1.pdb
